@@ -1,4 +1,4 @@
-'use client'
+'use client';
 
 import { Button } from "@/components/button";
 import { InputField, InputIcon, InputRoot } from "@/components/input";
